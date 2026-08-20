@@ -10,7 +10,7 @@ from src.config.config import (
 )
 from src.config.logger import logger
 
-
+print(bool(API_KEY))
 class NewsAPI:
     
     

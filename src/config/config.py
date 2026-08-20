@@ -29,8 +29,12 @@ load_dotenv(ENV_PATH)
 NEWS_API_BASE_URL = "https://newsapi.org/v2"
 
 
-API_KEY = st.secrets.get("API_KEY") or os.getenv("API_KEY")
-
+try:
+    API_KEY = st.secrets.get("API_KEY") or os.getenv("API_KEY")
+except Exception:
+    API_KEY = os.getenv("API_KEY")
+    
+print(bool(API_KEY))
 #!================================================
 #!           API ENDPOINTS
 #!================================================
