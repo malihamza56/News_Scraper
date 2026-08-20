@@ -11,7 +11,7 @@ from src.config.config import LOGGING_FILE_PATH
 
 logging.basicConfig(
     level=logging.INFO,
-    filename=LOGGING_FILE_PATH,
+    filename="logs/scraper.logs",
     filemode='w',
     format="%(asctime)s | %(levelname)s | %(filename)s | %(message)s"   
 )
