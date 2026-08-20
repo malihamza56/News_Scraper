@@ -5,7 +5,7 @@ Config Module: Control the configurations of All the Scraper
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-
+import streamlit as st
 #!================================================
 #!           BASE DIRECTORY
 #!================================================
@@ -28,7 +28,8 @@ load_dotenv(ENV_PATH)
 
 NEWS_API_BASE_URL = "https://newsapi.org/v2"
 
-API_KEY = os.getenv("API_KEY")
+
+API_KEY = st.secrets.get("API_KEY") or os.getenv("API_KEY")
 
 #!================================================
 #!           API ENDPOINTS
