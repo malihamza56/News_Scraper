@@ -3,7 +3,7 @@
 > A modern, polished, and powerful project built with **[TECH STACK]**.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_DEMO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_REPO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/malihamza56/News_Scraper.git)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 ---
