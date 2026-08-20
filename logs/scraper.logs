@@ -1,0 +1,21 @@
+2026-08-20 20:47:42,136 | INFO | main.py | News scraping workflow started.
+2026-08-20 20:47:42,137 | INFO | news_api.py | Fetching Articles pakistan cricket |
+            from https://newsapi.org/v2/everything |
+            page 1
+2026-08-20 20:47:42,137 | INFO | news_api.py | Sending Request to news api: https://newsapi.org/v2/everything
+2026-08-20 20:47:50,412 | INFO | news_api.py | News Api Response | 200
+2026-08-20 20:47:50,416 | INFO | main.py | Raw response received from News API.
+2026-08-20 20:47:50,416 | INFO | news.py | Extracting Fields from Response
+2026-08-20 20:47:50,416 | INFO | news.py | Data Fields extracted successfully
+2026-08-20 20:47:50,416 | INFO | main.py | Articles extracted | 83
+2026-08-20 20:47:50,416 | INFO | cleaner.py | Cleaning extracted news data...
+2026-08-20 20:47:50,417 | INFO | cleaner.py | News cleaning completed | 83 unique articles
+2026-08-20 20:47:50,418 | INFO | main.py | Articles cleaned | 83
+2026-08-20 20:47:50,437 | INFO | serialization.py | Making Serailized Json
+2026-08-20 20:47:50,443 | INFO | serialization.py | Json Serailized Successful
+2026-08-20 20:47:50,443 | INFO | main.py | News data serialized successfully.
+2026-08-20 20:47:50,444 | INFO | exporter.py | Making Serailized csv
+2026-08-20 20:47:50,452 | INFO | exporter.py | csv Serailized Successful
+2026-08-20 20:47:50,452 | INFO | exporter.py | Making Serailized Excel
+2026-08-20 20:47:50,920 | INFO | exporter.py | Excel Serailized Successful
+2026-08-20 20:47:50,920 | INFO | main.py | CSV and Excel reports generated successfully.
