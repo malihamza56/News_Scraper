@@ -1,6 +1,6 @@
 # 🚀 News Scraper
 
-> A modern, polished, and powerful project built with **[TECH STACK]**.
+> A modern, polished, and powerful project built with **Python & streamlit**.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white)](https://newsscrape-bvpfbhtr7atsw5ad3ek3sk.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/malihamza56/News_Scraper.git)
