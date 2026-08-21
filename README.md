@@ -1,4 +1,4 @@
-# 🚀 PROJECT NAME
+# 🚀 News Scraper
 
 > A modern, polished, and powerful project built with **[TECH STACK]**.
 
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-**News Scraper** is a [is a modern scraping website which scrap news according to categories and give the latest articles to that one category and also provide the facility of download files in to Excel and CSV].
+**News Scraper** is a modern scraping website which scrap news according to categories and give the latest articles to that one category and also provide the facility of download files in to Excel and CSV.
 
 It is designed to provide a clean, modern, responsive, and user-friendly experience while focusing on **performance, usability, and simplicity**.
 
