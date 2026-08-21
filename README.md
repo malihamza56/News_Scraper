@@ -2,7 +2,7 @@
 
 > A modern, polished, and powerful project built with **[TECH STACK]**.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_DEMO_URL)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white)](https://newsscrape-bvpfbhtr7atsw5ad3ek3sk.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/malihamza56/News_Scraper.git)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -10,15 +10,14 @@
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo →](YOUR_LIVE_DEMO_URL)**
+🔗 **[View Live Demo →](https://newsscrape-bvpfbhtr7atsw5ad3ek3sk.streamlit.app/)**
 
-> Replace `YOUR_LIVE_DEMO_URL` with your deployed project URL.
 
 ---
 
 ## 📌 Overview
 
-**PROJECT NAME** is a [brief description of your project].
+**News Scraper** is a [is a modern scraping website which scrap news according to categories and give the latest articles to that one category and also provide the facility of download files in to Excel and CSV].
 
 It is designed to provide a clean, modern, responsive, and user-friendly experience while focusing on **performance, usability, and simplicity**.
 
@@ -39,18 +38,11 @@ It is designed to provide a clean, modern, responsive, and user-friendly experie
 
 ![Main Interface](assets/screenshots/main-interface.png)
 
-> 📌 **Screenshot Placeholder:**  
-> Add your main project screenshot here:
-> `assets/screenshots/main-interface.png`
-
 ---
 
 ### 📊 Dashboard / Main Output
 
 ![Dashboard](assets/screenshots/dashboard.png)
-
-> 📌 **Screenshot Placeholder:**  
-> Replace this image with your actual dashboard/output screenshot.
 
 ---
 
